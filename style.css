@@ -1,0 +1,132 @@
+body {
+    background-color:#cdced2;
+    }
+
+
+.navbar {
+    height: 30px;
+    background-color: white;
+}
+
+.container {
+    padding-left: 10%;
+}
+.navbar-header {
+    background-color:  #43bab4 ;
+    color: white;
+    position: relative;
+    padding-left: 15px;
+    padding-right: 10px;
+}
+
+.navbar-brand {
+    color: white;
+    font-size: 18px;
+    border-left: 30%;
+}
+
+
+.box {
+    position: relative;
+    width: auto;
+    height: 1000px;
+    background-color:white;
+}
+
+.box-1 {
+    position: relative;
+    width: 150px;
+    height: 100px;
+    margin-right: auto;
+    margin-left: 25px;
+    margin-bottom: 45px;
+    top: 50%;
+}
+
+.box-2 {
+    position: relative;
+    width: 150px;
+    height: 100px;
+    margin-right: auto;
+    margin-left: 15px;
+    margin-bottom: 45px;
+    top: 50%;
+}
+
+.box-3 {
+    position: relative;
+    width: 150px;
+    height: 100px;
+    margin-right: auto;
+    margin-left: 25px;
+    margin-bottom: 45px;
+    bottom: 50%;
+}
+
+.box-4 {
+    position: relative;
+    width: 150px;
+    height: 100px;
+    margin-right: auto;
+    margin-left: 15px;
+    margin-bottom: 45px;
+    bottom: 50%;
+}
+
+
+
+.comprow {
+    position: relative;
+    display: flex;
+    
+}
+
+.compcolumn {
+    position: relative;
+    flex: 50%;
+    padding: 10px;
+    text-align: center;
+}
+
+
+.tablepad {
+    position: relative;
+    margin: 20px 20px 20px 20px;
+}
+
+.tut {
+    font-family: Arial Bold;
+    color: #43bab4;
+    padding: 25px 0px 0px 25px;
+    font-weight: bold;
+}
+
+.tut1 {
+    font-family: Arial Bold;
+    font-size: 18pt;
+    color: white;
+    font-weight: bold;
+}
+
+.temp {
+    width: 350px;
+    height: 250px;
+    float: left;
+    
+}
+
+
+
+.p1 {
+    font-size: 12pt;
+    line-height: 2;
+    padding: 10px 30px 10px 15px;
+    text-align: justify;
+}
+
+hr {
+    position: relative;
+    width: 90%;
+    align-self: center;
+}
+ 
